@@ -1,4 +1,7 @@
-## Hi there 👋
+Olá!
+
+Oi, meu nome é Lawane Cavalcante!
+Sou estudante de BTI na UFERSA.
 
 <!--
 **lawanec/Lawanec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
